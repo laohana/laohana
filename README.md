@@ -1,11 +1,10 @@
 ### Hi there,
-I'm [laohana.tech][website] ✨
+I'm [laohana.tech][website] ✨ 
+#### Brazilian Designer & Front-End Developer that loves to create 💻🇧🇷
 
-#### I'm a Brazilian Designer & Developer that loves to create 💻🇧🇷
-
-🎓 I'm graduated in Internet Systems.
-👩🏼‍💻 Currently working as a Freelancer Graphic Designer and Front End Developer.
-✏️ I'm currently learning everything.
+🎓 I'm graduated in Internet Systems.<br/>
+👩🏼‍💻 Currently working as a Freelancer Graphic Designer and Front End Developer.<br/>
+✏️ I'm currently learning everything.<br/>
 👊🏼 In 2021 I want to contribute to open projects and find a great new job.
 
 ### Connect with me:
