@@ -3,9 +3,9 @@ I'm [laohana.tech][website] ✨
 #### Brazilian Designer & Front-End Developer that loves to create 💻🇧🇷
 
 🎓 I'm graduated in Internet Systems.<br/>
-👩🏼‍💻 Currently working as a Freelancer Graphic Designer and Front End Developer.<br/>
-✏️ I'm currently learning everything.<br/>
-👊🏼 In 2021 I want to contribute to open projects and find a great new job.
+👩🏼‍💻 Currently working at my own company, creating digital experiences and creative strategies for brands. <br/>
+✏️ I'm currently learning UI/UX Design + React and improving my HTML, CSS and Javascript skills.<br/>
+👊🏼 In 2021 I want to make good oportunities with coding.<br/>
 
 ### Connect with me:
 
