@@ -5,13 +5,13 @@ I'm [laohana.tech][website] ✨
 🎓 I'm graduated in Internet Systems.<br/>
 👩🏼‍💻 Currently working at my own company, creating digital experiences and creative strategies for brands. <br/>
 ✏️ I'm currently learning UI/UX Design + React and improving my HTML, CSS and Javascript skills.<br/>
-👊🏼 In 2021 I want to make good oportunities with coding.<br/>
+👊🏼 In 2022 I want to make good oportunities with design and coding.<br/>
 
 ### Connect with me:
 
-[<img align="left" alt="laohana.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="laohana" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="laohana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="laohana.tech | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="laohana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -31,6 +31,6 @@ I'm [laohana.tech][website] ✨
 
 
 
-[website]: https://laohana.tech
-[instagram]: https://instagram.com/laohana.tech
+[website]: https://behance.net/laohana
+[instagram]: https://instagram.com/laohana
 [linkedin]: https://linkedin.com/in/laohana
