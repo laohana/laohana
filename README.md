@@ -1,11 +1,11 @@
 ### Hi there,
-I'm [laohana.tech][website] ✨ 
-#### Brazilian Designer & Front-End Developer that loves to create 💻🇧🇷
+I'm [laohana.com.br][website] ✨ 
+#### Brazilian Web Designer that loves to create 💻🇧🇷
 
-🎓 I'm graduated in Internet Systems.<br/>
-👩🏼‍💻 Currently working at my own company, creating digital experiences and creative strategies for brands. <br/>
-✏️ I'm currently learning UI/UX Design + React and improving my HTML, CSS and Javascript skills.<br/>
-👊🏼 In 2022 I want to make good oportunities with design and coding.<br/>
+🎓 Sc. in Internet Systems and MsC. in Design and Technology.<br/>
+👩🏼‍💻 Currently working on my own, creating digital experiences with design and website no-code. <br/>
+✏️ I'm currently learning UI/UX Design and improving my front-end skills.<br/>
+👊🏼 This year I want to make good projects with design and coding.<br/>
 
 ### Connect with me:
 
@@ -31,6 +31,6 @@ I'm [laohana.tech][website] ✨
 
 
 
-[website]: https://behance.net/laohana
+[website]: https://laohana.com.br
 [instagram]: https://instagram.com/laohana
 [linkedin]: https://linkedin.com/in/laohana
